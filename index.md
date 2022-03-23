@@ -1,5 +1,3 @@
----
-layout: default
----
+{{ content }}
 
-/index.md
+This is ./index.md
