@@ -2,30 +2,4 @@
 layout: default
 ---
 
-<div id="main">
-    <div id="react-root">
-        <div class="channel-featured">
-            <div class="widgets-container">
-                
-                <div class="panel">
-                    <div class="inner ">
-                        <div class="bg-color-warning header ">
-                            <b> <span id="404-notpage-title"></span> </b>页面不存在
-                        </div>
-
-                        <div class="content">
-                            <b>本网站目前还没有此标题相同的文章。</b><br>
-                            <b>有以下几种可能：</b>
-                            <ul style="margin: 1.75rem 0 0 0;font-size:13px">
-                                <li>还没有添加此标题相同的文章。</li>
-                                <li>此标题的文章已经被删除。</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-
-                
-            </div>
-        </div>
-    </div>
-</div>
+/index.md
